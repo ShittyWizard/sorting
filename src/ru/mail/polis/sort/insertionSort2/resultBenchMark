@@ -1,0 +1,4 @@
+Benchmark       Number   Mode    Cnt      Score   Error      Units
+InsertionSort    100     avgt     50      11,702 ± 0,729     us/op +
+InsertionSort   1000     avgt     50     488,673 ± 45,752    us/op +
+InsertionSort  10000     avgt     50   59054,618 ± 4226,506  us/op +

@@ -1,0 +1,4 @@
+Benchmark       Number      Mode    Cnt       Score   Error     Units
+KStatistic        100       avgt    50        2,159 ± 0,149     us/op
+KStatistic       1000       avgt    50      273,027 ± 23,464    us/op
+KStatistic      10000       avgt    50    27110,890 ± 1712,843  us/op

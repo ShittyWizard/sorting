@@ -1,0 +1,4 @@
+Benchmark   Number      Mode  Cnt       Score   Error    Units
+MSDBinary    100        avgt   50      13,397 ± 0,967    us/op
+MSDBinary   1000        avgt   50     131,957 ± 9,030    us/op
+MSDBinary  10000        avgt   50    1431,100 ± 109,692  us/op

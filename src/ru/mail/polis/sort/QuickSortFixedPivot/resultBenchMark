@@ -1,0 +1,4 @@
+Benchmark      Mode    Number    Cnt      Score   Error     Units
+QuickSort      avgt      100      50      6,216 ± 0,395     us/op +
+QuickSort      avgt     1000      50     87,434 ± 6,817     us/op +
+QuickSort      avgt    10000      50   1034,963 ± 106,505   us/op +

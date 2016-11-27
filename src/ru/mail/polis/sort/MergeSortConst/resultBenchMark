@@ -1,0 +1,4 @@
+Benchmark        Mode    Number    Cnt      Score   Error     Units
+MergeSortConst   avgt      100      50     46,421 ± 3,563     us/op +
+MergeSortConst   avgt     1000      50    644,804 ± 50,343    us/op +
+MergeSortConst   avgt    10000      50  9971,663 ± 731,759    us/op +

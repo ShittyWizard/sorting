@@ -1,0 +1,4 @@
+Benchmark   Number   Mode       Cnt      Score   Error     Units
+ShellSort      100   avgt        50      2,840 ± 0,235     us/op +
+ShellSort     1000   avgt        50     48,460 ± 5,263     us/op +
+ShellSort    10000   avgt        50    663,051 ± 42,119    us/op +

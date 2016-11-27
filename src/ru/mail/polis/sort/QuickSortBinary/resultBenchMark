@@ -1,0 +1,4 @@
+Benchmark           Number      Mode  Cnt     Score   Error     Units
+QuickSortBinary      100        avgt   50     9,671 ± 1,083     us/op
+QuickSortBinary     1000        avgt   50   104,019 ± 8,858     us/op
+QuickSortBinary    10000        avgt   50  1140,210 ± 108,299   us/op
