@@ -1,2 +1,4 @@
-# sorting
-Sorting benchmark
+# Sorting and benchmarks.
+
+Benchmark'и находятся в папках с сортировками. 
+Там же текстовые файлы с результатами, помимо основного файла c таблицей результатов Results.pdf .
